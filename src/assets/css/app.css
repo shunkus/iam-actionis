@@ -1,0 +1,6 @@
+td,
+th {
+  border-bottom: 1px solid #eee;
+  padding: 8px;
+  min-width: 6em;
+}
